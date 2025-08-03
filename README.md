@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MERN CRUD Project
 
 ## Introduction
@@ -62,7 +61,3 @@ docker-compose up --build
 - Understand how to containerize frontend and backend apps
 - Learn to use Docker Compose for service orchestration
 - Practice environment variable management and networking between containers
-
-
-Let me know if you'd like to add badges, screenshots, or instructions for deploying to a cloud provider like DigitalOcean or Render!
->>>>>>> 6e54aa84f7d91867c0dc6e483e8c27e24cb4b85f
