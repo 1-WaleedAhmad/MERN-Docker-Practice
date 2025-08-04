@@ -21,9 +21,7 @@ Make sure you have the following installed on your machine:
 ## Setup
 
 1. Clone the repository:
-
-   ```bash
-   gh repo clone Hayyanshaikh/mern-project   
+2.  
 =======
 # MERN-Docker-Practice
 🧱 Stack Overview
